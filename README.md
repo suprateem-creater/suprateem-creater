@@ -1,7 +1,5 @@
 ## Hi there 👋
-<div align="center">
-  <img src="siddhux9-profile-grid.svg" alt="Terminal Profile Badge" />
-</div>
+
 
 ### Suprateem Paul 👋
 * 💻 **Tech:** Focused on Computer Science & Cyber Security.
